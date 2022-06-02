@@ -1,4 +1,4 @@
-'use script';
+'use strict';
 
 // 外部JavaScriptファイル
 /*
